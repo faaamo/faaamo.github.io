@@ -1,0 +1,52 @@
+.body-style
+{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+div
+{
+    outline: 0 !important;
+    position: relative;
+}
+
+.ubox
+{
+    display: -webkit-box !important;
+    display: -moz-box !important;
+    display: box !important;
+    position: relative;
+}
+
+.ubox-ver
+{
+    -webkit-box-orient:vertical;
+    -moz-box-orient:vertical;
+    box-orient:vertical;
+}
+
+.ubox-hor
+{
+    -webkit-box-orient: horizontal;
+    -moz-box-orient: horizontal;
+    box-orient: horizontal;
+}
+
+.ubox-pack
+{
+    -webkit-box-pack:end;
+    -moz-box-pack:end;
+    box-pack:end;
+}
+
+.ubox-img
+{
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+

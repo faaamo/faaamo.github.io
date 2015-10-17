@@ -1,0 +1,24 @@
+.pic
+{
+    background-image:url(../images/top-bg.jpg);
+
+    min-width: 1000px;
+    height: auto;
+}
+
+.balloon
+{
+    background-image:url(../images/button.png);
+}
+
+.mclick
+{
+    position: absolute;
+    background-image:url(../images/warn.png);
+}
+
+.h-move
+{
+    width: auto;
+    height: auto;
+}
