@@ -68,8 +68,8 @@ function getDimensions()
         
         if(ipic_3 != null)
         {
-            ipic_3.style.marginTop =  winWidth * 0.17 + "px";
-            ipic_3.style.height = winHeight-300 + "px";
+            ipic_3.style.marginTop =  winWidth * 0.12 + "px";
+            ipic_3.style.height = winHeight-200 + "px";
         }
         
         if(ipic_4 != null)
