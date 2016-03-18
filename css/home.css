@@ -7,7 +7,7 @@ body
     margin: 0px;
     padding: 0px;
     overflow-x: hidden;
-    background-color: #f0f4f4;
+    background-color: #ffffff;
 }
 
 .h-content
@@ -139,7 +139,7 @@ body
     
 }
 
-i-img
+.i-img
 {
     width: auto;
     height: auto;
@@ -263,6 +263,7 @@ i-img
 {
     font-size: 14px;
     padding-bottom: 10px;
+	padding-left: 2px;
 }
 
 .work:hover, .itop:hover
