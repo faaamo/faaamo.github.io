@@ -34,4 +34,6 @@ function toNext(id)
         window.location.href = "dot-cloth.html";
     else if(id == 11)
         window.location.href = "personal-ehxibition.html";
+	else if(id == 12)
+        window.location.href = "emotion3.html";
 }
